@@ -1,0 +1,5 @@
+pip install pandas openpyxl
+pip install plotly-express
+pip install streamlit
+pip install streamlit-option-menu
+pip install streamlit-authenticator==0.1.5

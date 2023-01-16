@@ -1,0 +1,13 @@
+[theme]
+primaryColor="#07a3b2"
+backgroundColor="#000000"
+secondaryBackgroundColor="#3d3f3c"
+textColor="#fff"
+
+
+
+
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# Default: "sans serif"
+font = "arial"
